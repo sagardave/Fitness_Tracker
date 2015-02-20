@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FitnessTracker</string>
+    <string name="new_log">Create a new log</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="FitnessTracker">FitnessTracker</string>
+    <string name="NewLog">New</string>
+    <string name="CreatedLogs">Logs</string>
+    <string name="Progress">Progress</string>
+    <string name="Profile">Profile</string>
+    <string name="Date">Date</string>
+    <string name="muscleGroup">Muscle Group:</string>
+    <string name="SetNumber">Set:</string>
+    <string name="newSet">New Set</string>
+    <string name="addSet">Add</string>
+    <string name="saveSets">Save</string>
+    <string name="Reps">Reps @</string>
+    <string name="weight"></string>
+    <string name="unitOfWeight">lb</string>
+    <string name="deleteSet">Delete</string>
+    <string name="workoutName">Workout Name:</string>
+    <string name="saveWorkout">Save</string>
+    <string name="title_activity_saved_logs">SavedLogs</string>
+    <string name="title_activity_logs">Logs</string>
+    <string name="clearButton">Clear</string>
+    <string name="displayButton">Display</string>
+    <string name="title_activity_afragment">AFragment</string>
+    <string name="title_activity_bfragment">BFragment</string>
+    <string name="title_activity_my_tab_listener">MyTabListener</string>
+    <string name="testView">test</string>
+    <string name="title_activity_history">History</string>
+    <color name="translucent_red">#006600</color>
+    <dimen name="nameSize">37sp</dimen>
+    <string name="aboutTitle"><u><b><i>Fitness Tracker</i></b></u></string>
+    <string name="creator">Created By </string>
+    <string name="creatorName"><b>Sagar Dave</b></string>
+    
+    
+
+    <string-array name="excercise_array">
+        <item>Mars</item>
+    </string-array>
+
+    <string name="label">Fitness Tracker</string>
+    <string name="newText">New</string>
+    <string name="histoyText">History</string>
+    <string name="progressText">Progress</string>
+    <string name="title_activity_about">About</string>
+    <string name="fitnessTrackerTitle">Fitness Tracker</string>
+    <string name="version">Version: 1.1</string>
+    <string name="Licenses">Licenses</string>
+    <string name="slidingLicense">Sliding Menu - by Jeremy Feinstein</string>
+    <string name="slidingLicense2">Used under the Apache License</string>
+    <string name="achertEngineLicense">"achartengine "</string>
+    <string name="about">About</string>
+
+</resources>
