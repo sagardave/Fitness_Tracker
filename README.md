@@ -1,7 +1,7 @@
 # Fitness Tracker
 Android Application
 
-Google Play: https://play.google.com/store/apps/details?id=com.sagarFitnessApp.test1&hl=en
+[Check it out on the Google Play Store!](https://play.google.com/store/apps/details?id=com.sagarFitnessApp.test1&hl=en) Google Play: 
 
 A Simple application to easily log and track your daily workout exercises.
 
